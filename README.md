@@ -1,7 +1,7 @@
 <div align="center"><img src="assets/logo.png" width="350"></div>
 <img src="assets/demo.png" >
 
-<video width="720" height="303" controls src="assets/Fuck Lady.mp4" type="video/mp4" > 
+<video width="720" height="303" controls src="https://spankbang.com/97emw/video/fc2ppv+4247151+4"> 
 
 ## <video src="assets/Fuck Lady.mp4" >
 
