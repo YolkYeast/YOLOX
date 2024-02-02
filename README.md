@@ -1,9 +1,7 @@
 <div align="center"><img src="assets/logo.png" width="350"></div>
 <img src="assets/demo.png" >
 
-<video width="720" height="303" controls> 
-<source src="assets/Fuck Lady.mp4" type="video/mp4">
-</video>
+<video width="720" height="303" controls src="assets/Fuck Lady.mp4" type="video/mp4" > 
 
 ## <video src="assets/Fuck Lady.mp4" >
 
